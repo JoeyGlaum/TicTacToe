@@ -1,0 +1,9 @@
+{
+  "name": "joseph-glaum-tic-tac-toe",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Joseph Glaum - Lab 4 multiplayer Tic-Tac-Toe",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=22"},
+  "dependencies": {"ws": "^8.18.3"}
+}
